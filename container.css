@@ -1,0 +1,28 @@
+.container{
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 20px;
+    background-color: #58c3e4;
+}
+.container__navigation{
+    text-align:center;
+}
+.container__listItem{
+    padding:10px;
+}
+.container__list{
+    text-decoration: none;
+    list-style: none;
+}
+.container__link{
+    text-decoration: none;
+    font-size: 30px;
+    color: #fff;
+}
+.container__link:hover{
+    border-bottom: 1px solid rgb(68, 0, 255);
+    padding: 5px;
+}
+.formule{
+    background-color: #fff;
+}

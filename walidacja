@@ -1,0 +1,18 @@
+required = pole nie moze byc puste
+
+minlength i max length - znaki wpisywane przez uzytkownika
+
+min i max - liczby, data i czas. 
+
+type e-mail, number
+
+pattern: 
+-wyrazenie regularne
+-wzor, kombinacja znakow
+-idelane do walidacji 
+    https? http lub https
+kod pocztowy
+-[0-9]{2}-[0-9]{3}
+
+
+strona idelana do tego = regexr.com 
